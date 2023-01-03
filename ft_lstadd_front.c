@@ -6,14 +6,14 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:40:15 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:51 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:05:29 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include"libft.h"
 
 /**
- * - Description:
+ * - Description 
  * Adds the node 'new' at the beginning of the list.
  *
  * - Parameters:

@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:26:21 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/27 09:39:54 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:08:49 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@
  * Therefore if c is ‘\0’, the functions locate the terminating ‘\0’
  *
  * The functions ft_strchr() return a pointer to the located character c,
- * or NULL if the character does not appear in the string.
+ * or NULL if the character does not appear in the string .
 */
 
 char	*ft_strchr(const char *str, int c)

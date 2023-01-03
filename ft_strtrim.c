@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:32:57 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:34 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:10:45 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 /**
  * Allocates (with malloc(3)) and returns a copy of 's1' with the characters
- * specified in 'set' removed from the beginning and the end of the string.
+ * specified in 'set' removed from the beginning and the end of the string. 
  *
  * - Parameters:
  * s1: The string to be trimmed.

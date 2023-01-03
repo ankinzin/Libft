@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:03:47 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:07 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:06:45 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 /**
  *	The ft_memchr() function locates the first occurrence of c (converted to
- *	an unsigned char) in string str.
+ *	an unsigned char) in string str .
  *
  *	The memchr() function returns a pointer to the byte located, or NULL
  *	if no such byte exists within n bytes.

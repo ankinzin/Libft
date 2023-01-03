@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:27:52 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:22 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:09:23 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 /**
  *	Allocates (with malloc(3)) and returns a new string, which is the result
- *	of the concatenation of 's1' and 's2'.
+ *	of the concatenation of 's1' and 's2' .
  *
  *	- Parameters:
  *	s1: The prefix string

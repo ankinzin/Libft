@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:56:29 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:17 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:08:22 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
  * Outputs the string 's' to the given file descriptor.
  *
  * - Parameters:
- * s: The string to output.
+ * s: The string to output 
  * fd: The file descriptor on which to write.
  *
  * Returns None

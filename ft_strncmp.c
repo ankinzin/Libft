@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:31:05 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:28 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:10:14 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
 **
 **	The ft_strcmp() and ft_strncmp() functions return an integer less than, equal
 **	to, or greater than zero if s1 (or the first n bytes thereof) is found,
-**	respectively, to be less than, to match, or be greater than s2.
+**	respectively, to be less than, to match, or be greater than s2 .
 */
 
 int	ft_strncmp(const char *s1, const char *s2, size_t n)

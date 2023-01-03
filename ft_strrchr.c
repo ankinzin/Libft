@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:32:00 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/27 10:12:39 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:10:37 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 /**
  * The ft_strrchr() function is identical to ft_strchr(), except it
- * locates the last occurrence of c.
+ * locates the last occurrence of c .
  *
  * The strrchr() return a pointer to the located character,
  * or NULL if the character c does not appear in the string.

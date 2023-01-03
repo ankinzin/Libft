@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:25:40 by ankinzin          #+#    #+#             */
-/*   Updated: 2023/01/01 10:36:00 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:08:34 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 /**
  * Allocates (with malloc(3)) and returns an array of string obtained by
- * splitting 's' using the character 'c' as a delimiter. The array must end
+ * splitting 's' using the character 'c' as a delimiter . The array must end
  * with a NULL pointer.
  *
  * - Parameters:

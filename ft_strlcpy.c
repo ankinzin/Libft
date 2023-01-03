@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:29:05 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:25 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:09:48 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@
 * NUL-ter‐minated string src to dst, NUL-terminating the result.
 * It takes the full size of the buffer (not just the length)  and guarantee
 * to NUL-terminate the result (as long as size islarger than 0). This means
-* that for ft_strlcpy() src must be NUL-terminated.
+* that for ft_strlcpy() src must be NUL-terminated. 
 *
 * The function returns the total lenght of the string, that means src length.
 */

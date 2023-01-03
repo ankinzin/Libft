@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:54:54 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:13 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:07:40 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 /**
  * Outputs the character 'c' to the given file descriptor.
  *
- * - Parameters:
+ * - Parameters :
  * c: The character to output.
  * fd: The file descriptor on which to write.
  *

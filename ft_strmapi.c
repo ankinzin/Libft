@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:30:25 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:27 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:10:04 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 /**
  * Applies the function 'f' to each character of the string 's', and passing
  * its index as first argument to create a new string (with malloc(3))
- * resulting from successive applications of 'f'.
+ * resulting from successive applications of 'f' .
  *
  * - Parameters:
  * s: The string on which to iterate.

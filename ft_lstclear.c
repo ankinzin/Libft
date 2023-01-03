@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:40:40 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:53 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:05:37 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
  * - Description:
  * Deletes the given node and every successor of that node, usign the
  * function 'del'.
- * Finally, the pointer to the list must be set to NULL.
+ * Finally, the pointer to the list must be set to NULL .
  *
  * - Parameters:
  * lst: The address of a pointer to a node.

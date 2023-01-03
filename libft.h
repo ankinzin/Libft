@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/22 22:19:30 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:39 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:11:21 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
 # include<stdlib.h>
 # include<unistd.h>
 
-// Mandatory Part 1:
+// Mandatory  Part 1:
 int		ft_isalpha(int c);
 int		ft_isdigit(int c);
 int		ft_isalnum(int c);

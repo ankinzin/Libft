@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:02:52 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:48 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:05:06 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 /**
  * Allocates (with malloc(3)) and returns a string representing the integer
  * received as an argument.Negative numbers must be handled.
- * Returns the string representing the integer or NULL if the allocation fails.
+ * Returns the string representing the integer or NULL if the allocation fails .
 **/
 
 static int	ft_lennum(long num)

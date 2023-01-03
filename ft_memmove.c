@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:07:10 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:10 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:07:07 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
  * The ft_memmove() function copies len 
  * bytes from string src to string dest.
  * The two strings may overlap; the copy
- *  is always done in a non-destructive manner.
+ *  is always done in a non-destructiv manner .
  *
  * The ft_memmove() function returns the pointer dest.
 **/

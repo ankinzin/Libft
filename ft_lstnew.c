@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:43:02 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:00 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:06:19 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 /**
  * - Description:
- * Allocates (with malloc(3)) and returns a new node.
+ * Allocates (with malloc(3)) and returns a new node .
  * The member variable 'content' is initialized with the value of the
  * parameter 'content'.
  * The variable 'next' is initialized to NULL.

@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:33:22 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/30 21:11:18 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:10:52 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -17,7 +17,7 @@
  *
  * - Parameters:
  * s: The string from which to create the substring.
- * start: The start index of the substring in the string 's'.
+ * start: The start index of the substring in the string 's'. 
  * len: The maximum length of the substring.
  *
  * - Returnes the substring or NULL if the allocation fails.

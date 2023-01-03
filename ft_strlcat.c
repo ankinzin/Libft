@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:28:37 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/27 10:35:38 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:09:33 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -18,7 +18,7 @@
  *
  *	- ft_strlcat() take the full size of the destination buffer and guarantee
  *	NUL-termination if there is room.  Note that room for the NUL should be
- *	included in dest_size.
+ *	included in dest_size. 
  *
  *	- strlcat() appends string src to the end of dest.  It will append at most
  *	dst_size - strlen(dst) - 1 characters.  It will then NUL-terminate,

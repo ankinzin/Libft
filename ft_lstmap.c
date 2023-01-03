@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:42:34 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:59 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:06:12 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 /**
  * - Description:
  * Iterates the list 'lst' and applies the function 'f' on the
- * content of each node.
+ * content of each node .
  * Creates a new list resulting of the successive applications
  * of the function 'f'.
  * The 'del' function is used to delete the content of a node if needed.

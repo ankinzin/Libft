@@ -6,14 +6,14 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/19 11:44:33 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:35 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:02:39 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /**
  *	The ft_atoi() function converts the initial portion of the string
  *	pointed to by ptr to int representation.
- *	Not overflow protected.
+ *	Not overflow protected .
 **/
 int	ft_atoi(const char *ptr)
 {

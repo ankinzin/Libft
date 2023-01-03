@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:31:35 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:31 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:10:26 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -19,7 +19,7 @@
  *
  * If little is an empty string, big is returned; if little occurs
  * nowhere in big, NULL is returned; otherwise a pointer to the first
- * character of the first occurrence of little is returned.
+ * character of the first occurrence of little is returned. 
 */
 
 char	*ft_strnstr(const char *big, const char *little, size_t len)

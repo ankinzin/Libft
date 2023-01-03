@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:43:24 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:01 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:06:28 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,7 +14,7 @@
 
 /**
  * - Description:
- * Counts the number of nodes in a list.
+ * Counts the number of nodes in a list .
  *
  * - Parameters:
  * lst: The beginning of the list.

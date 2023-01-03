@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 11:25:05 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:46 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:04:51 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -16,7 +16,7 @@
  *	representable as an unsigned char or the value of EOF.
  *
  *	- The isprint() function returns zero if the character tests false and
- *	returns non-zero if the character tests true.
+ *	returns non-zero if the character tests true .
 **/
 
 int	ft_isprint(int c)

@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:55:55 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:37:15 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:08:13 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 /**
  * Outputs the integer 'n' to the given file descriptor.
  *
- * - Parameters:
+ * - Parameters :
  * n: The integer to output.
  * fd: The file descriptor on which to write.
  *

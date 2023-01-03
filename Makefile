@@ -6,7 +6,7 @@
 #    By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/12/22 22:06:44 by ankinzin          #+#    #+#              #
-#    Updated: 2022/12/23 11:37:40 by ankinzin         ###   ########.fr        #
+#    Updated: 2023/01/03 11:11:37 by ankinzin         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
@@ -52,7 +52,7 @@ fclean: clean
 
 re: fclean all
 
-# Rules to be used in Libft-war-machine test
+# Rules to be used in Libft-war-machine test 
 so:
 	$(CC) -nostartfiles -fPIC $(CFLAGS) $(SRC) $(BONUS)
 	gcc -nostartfiles -shared -o libft.so $(SRC_OBJ) $(BONUS_OBJ)

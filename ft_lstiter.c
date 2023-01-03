@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:41:47 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:56 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:05:54 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,8 @@
 
 /**
  * - Description:
- * Iterates the list 'lst' and applies the function 'f' on the content
- * of each node.
+ * Iterates the list 'lt' and applies the function 'f' on the content
+ * of each node .
  *
  * - Parameters:
  * lst: The address of a pointer to a node.

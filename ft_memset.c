@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/20 11:08:01 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/28 10:15:39 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:07:21 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -15,7 +15,7 @@
 /**
  *	- The ft_memset() function writes n bytes of value c
  *	(converted to an unsigned char) to buffer.
- *
+ * 
  *	- The ft_memset() function returns the buffer.
 **/
 

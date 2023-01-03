@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:42:07 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:58 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:06:04 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,8 +14,8 @@
 
 /**
  * - Description:
- * Return the last node of the list.
- *
+ * Return the last node of the list .
+ 
  * - Parameters:
  * lst: The beginning of the list.
  *

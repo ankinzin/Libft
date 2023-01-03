@@ -6,7 +6,7 @@
 /*   By: ankinzin <ankinzin@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/23 10:39:27 by ankinzin          #+#    #+#             */
-/*   Updated: 2022/12/23 11:36:50 by ankinzin         ###   ########.fr       */
+/*   Updated: 2023/01/03 11:05:18 by ankinzin         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,9 +14,9 @@
 
 /**
  * - Description:
- * Adds the node 'new' at the end of the list.
+ * Adds the node 'new' at the end of the list
  *
- * - Parameters:
+ * - Parameters :
  * lst: The address of a pointer to the first link of a list.
  * new: The address of a pointer to the node to be added to the list.
  *
