@@ -7,7 +7,7 @@ The main goal of this project is to build a library containing a variety of func
 
 
 - Actual Status : finished.
-- Result        : 120%
+- Result        : 125%
 - Observations : (null)
 
  <p>
